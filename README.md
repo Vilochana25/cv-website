@@ -1,4 +1,5 @@
 - # cv-website
 - My first repository on GitHub related to Net Centric Computing Assignment
-- 🔭 I’m currently trying to get a domain : vilochanakularathna.ml from [freenom](https://www.freenom.com/en/index.html?lang=en)
+- 🔭 I’m currently trying to get a domain from [freenom](https://www.freenom.com/en/index.html?lang=en)
 - 👯 I’m looking to host my resume web site vilochanakularathna from [000webhost](https://www.000webhost.com/)
+- 🔭 I got a domain vilochanakularathna.ml from freenom

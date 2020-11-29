@@ -1,2 +1,4 @@
-# cv-website
-My first repository on GitHub related to Net Centric Computing Assignment
+- # cv-website
+- My first repository on GitHub related to Net Centric Computing Assignment
+- 🔭 I’m currently trying to get a [domain : vilochanakularathna.ml](https://www.freenom.com/en/index.html?lang=en)
+- 👯 I’m looking to host my [cv-website](https://www.000webhost.com/)

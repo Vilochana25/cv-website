@@ -3,3 +3,5 @@
 - 🔭 I’m currently trying to get a domain from [freenom](https://www.freenom.com/en/index.html?lang=en)
 - 👯 I’m looking to host my resume web site vilochanakularathna from [000webhost](https://www.000webhost.com/)
 - 🔭 I got a domain vilochanakularathna.ml from freenom
+- 👯 I hosted my resume web site vilochanakularathna from [000webhost](https://www.000webhost.com/) 
+- 👯 It was taken around 2 hours
